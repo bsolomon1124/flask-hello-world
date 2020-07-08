@@ -2,6 +2,10 @@
 
 Ported from [flaskr](https://github.com/pallets/flask/tree/master/examples/tutorial) so that I can experiment with stuff.
 
+Requires:
+
+- [PostgreSQL](https://www.postgresql.org/) server and `psql` client
+
 Make db:
 
 ```bash
